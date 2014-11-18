@@ -1,0 +1,20 @@
+{
+  "LICENSE": "d32239bcb673463ab874e80d47fae504",
+  "README.md": "7761b5b9d1ef41ae3e58e5e29f38ec6a",
+  "Rakefile": "2a173f3da5d1fce2cc6366d9020386c9",
+  "files/hooks/qemu/drbd": "fa7abf713b4cd7b01626632c9b694723",
+  "files/scripts/manage-domains": "609b9381fa1cd45c9241c9d92c269349",
+  "manifests/config.pp": "09168913e4b0af0b823a1bee9c597ada",
+  "manifests/domain.pp": "b916058443a39a19671a4c97ab520aa0",
+  "manifests/init.pp": "6507edd93c9bab7d238bcd1176348fcd",
+  "manifests/install.pp": "0606099e6b6687d9f49e26126e1e2664",
+  "manifests/manage_domains_config.pp": "90e4fac9f300ca8152f1ac83090eaaf6",
+  "manifests/network.pp": "f04bd3062345b2397b3e337f7232fdb0",
+  "manifests/params.pp": "10aec9acca8bc1eaec175ea268d65db3",
+  "manifests/service.pp": "0f36105cac1f4983e2423fdf78c3b43c",
+  "metadata.json": "284df6302d59138b8228c35d41c8132b",
+  "templates/domain.xml.erb": "21e3013b8b10212fa682c96df9f81cf6",
+  "templates/manage-domains.ini.domain.erb": "a940b8649673850b0822cc9b3f2d8d23",
+  "templates/manage-domains.ini.header.erb": "a77a7c4f314959803d4cf2f4b410d1fe",
+  "templates/network.xml.erb": "7625ea634485f541185fa83cf72fef76"
+}
